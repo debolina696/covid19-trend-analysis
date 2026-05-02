@@ -159,7 +159,7 @@ Run all cells to reproduce results.
 
 ## 👤 Author
 
-**YDebolina Sorkhel**
+**Debolina Sorkhel**
 
 Data Analyst | Python | Data Visualization | Forecasting
 
